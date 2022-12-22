@@ -1,6 +1,6 @@
-# Calculadora
+# Calculadora        <img src=         "https://lh3.googleusercontent.com/pw/AL9nZEWO9Ar0r7_tXI7T7H8t5upqYcP5FvEyqBqSn2Lnwxrgc83clxYGMTA8qzd8YiYajJ8ZIdry2eeHdZKehQvmYlYWFGK2yPlGN5Byw4MfpwO5bHwBUJVR5-LTYDj-sjqpIlwv-OFg_yAiUittwsD1bJY=s24-no?authuser=0"/>
 
-Esse pejeto foi desenvolvida para um trabalho da matéria de Linguagens de Programação, o desafio era utilizar as estruturas que aprendemos em aula para criar uma calculadora. 
+### Esse projeto foi desenvolvido para um trabalho da diciplina de Linguagens de Programação, o desafio era utilizar as estruturas que aprendemos em aula para criar uma calculadora. 
 
 Desenvolvido na IDE NetBeans, utilizando Java Swing. 
 
