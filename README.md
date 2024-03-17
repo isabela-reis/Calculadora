@@ -1,8 +1,10 @@
-# Calculadora        <img src=         "https://lh3.googleusercontent.com/pw/AL9nZEWO9Ar0r7_tXI7T7H8t5upqYcP5FvEyqBqSn2Lnwxrgc83clxYGMTA8qzd8YiYajJ8ZIdry2eeHdZKehQvmYlYWFGK2yPlGN5Byw4MfpwO5bHwBUJVR5-LTYDj-sjqpIlwv-OFg_yAiUittwsD1bJY=s24-no?authuser=0"/>
+# Calculadora <img src= "https://lh3.googleusercontent.com/pw/AL9nZEWO9Ar0r7_tXI7T7H8t5upqYcP5FvEyqBqSn2Lnwxrgc83clxYGMTA8qzd8YiYajJ8ZIdry2eeHdZKehQvmYlYWFGK2yPlGN5Byw4MfpwO5bHwBUJVR5-LTYDj-sjqpIlwv-OFg_yAiUittwsD1bJY=s24-no?authuser=0"/>
 
-### Esse projeto foi desenvolvido para um trabalho da diciplina de Linguagens de Programação, o desafio era utilizar o Java Swing e a lógica de programação para criar algo.
+ Esse projeto foi desenvolvido para um trabalho da diciplina de Linguagens de Programação, o desafio era utilizar a interface gráfica Java Swing e a lógica de programação para criar algo funcional.
 
-Desenvolvido na IDE NetBeans, utilizando Java Swing. 
+## ⚒️ Ferramentas Utilizadas:
+
+Desenvolvido na IDE NetBeans, com a linguagem Java e utilizando Java Swing para desenvolvimento da tela. 
 
 <div align="left">
   <a href="https://github.com/isabela-reis">
